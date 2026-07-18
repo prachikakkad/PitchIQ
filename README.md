@@ -90,4 +90,4 @@ IPL ball-by-ball delivery data (2008–2026), sourced from Kaggle, aggregated to
 
 ## Author
 
-Built by [Your Name] as a portfolio project exploring the boundary of what pre-match context can (and can't) predict in cricket.
+Built by [Prachi Kakkad] as a portfolio project exploring the boundary of what pre-match context can (and can't) predict in cricket.
