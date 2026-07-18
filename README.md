@@ -74,7 +74,7 @@ pitchiq/
 ## Running Locally
 
 ```bash
-git clone https://github.com/<your-username>/pitchiq.git
+git clone https://github.com/prachikakkad/PitchIQ.git
 cd pitchiq
 pip install -r requirements.txt
 streamlit run app.py
