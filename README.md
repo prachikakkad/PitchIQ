@@ -75,7 +75,7 @@ pitchiq/
 
 ```bash
 git clone https://github.com/prachikakkad/PitchIQ.git
-cd pitchiq
+cd PitchIQ
 pip install -r requirements.txt
 streamlit run app.py
 ```
